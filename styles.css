@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+.container{
+	width:300px;
+	padding:50px 50px;
+	background-color:whitesmoke;
+	text-align:center;
+	box-shadow:0 6px 12px 0 rgba(0, 0, 0, 0.2);
+}
+.card{
+	padding:10px;
+	background-color:red;
+	color:white;
+	border-radius:10px;
+}
